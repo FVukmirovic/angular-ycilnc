@@ -1,18 +1,23 @@
 export const products = [
   {
-    name: 'Phone XL',
+    name: 'Samsung S10',
     price: 799,
-    description: 'A large phone with one of the best screens'
+    description: 'A large phone with one of the best screens and cameras'
   },
   {
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: 'Nokia 3310',
+    price: 99,
+    description: 'Great battery life'
   },
   {
-    name: 'Phone Standard',
+    name: 'iPhone X',
     price: 299,
     description: ''
+  },
+  {
+    name: 'Motorola V3',
+    price: 899,
+    description: 'Foldable.'
   }
 ];
 
